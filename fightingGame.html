@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head> 
+	<meta charset="UTF-8">
+	<title>Basic Sprite</title>
+	<script src="lib/extendjs/extend.min.js"></script>
+	<script src="lib/animation/requestAnimationFramePolyfill.js"></script>
+	<script src="lib/input/keyboard.js"></script>
+	<script src="lib/net/AJAX.js"></script>
+	<script src="SpriteSheet.js"></script>
+	<script src="GameWorld.js"></script>
+	<script src="Camera.js"></script>
+	<script src="Entity.js"></script>
+	<script src="Player.js"></script>
+	<script src="Component.js"></script>
+	<script src="EnergyBar.js"></script>
+	<script src="Background.js"></script>
+	<script src="fightingGame.js"></script>
+	<script src="GameTimer.js"></script>
+	
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id="painel">
+		<div id="player1">
+			<center>
+				<img src="assets/jogo.png" id="smal_logo"/><br/><br/>
+				<h4>Níveis:</h4>
+				<p>Básico - Menos combos;</p>
+				<p>Normal - Combos normais;</p>
+				<p>Avançado - FUTURAMENTE.</p></br>
+				<h4>Começo:</h4>
+				<p>- Selecionar um campeão para cada jogador de acordo com a preferência! <i>Não podem ser selecionados campeões iguais</i></p></br>
+				<h4>Campeão:</h4>
+				<p>- <b>Vida</b>: Vida do campeão;</p>
+				<p>- <b>Stamina</b>: Energia do campeão;</p>
+				<p>- <b>Dano</b>: Cada campeão tem danos diferentes segundo os ataques;</p>
+				<p>- <b>Defesa</b>: Cada campeão tem valores de defesa diferentes;</p></br>
+				<h4>Teclas - Jogador 1:</h4>
+				<p>- Esquerda - Andar para trás;</p>
+				<p>- Direita - Andar para frente;</p>
+				<p>- Cima - Saltar;</p>
+				<p>- Baixo - Baixar;</p></br>
+				<h4>Teclas - Jogador 2:</h4>
+				<p>- D - Andar para trás;</p>
+				<p>- A - Andar para frente;</p>
+				<p>- W - Saltar;</p>
+				<p>- S - Baixar;</p></br>
+				<h4>Teclas - Comuns:</h4>
+				<p>- 1 - Murro;</p>
+				<p>- 2 - Pontapé;</p>
+				<p>- 3 - Defender;</p>
+				<p>- 4 - Combo 1;</p>
+				<p>- 5 - Combo 2;</p>
+				<p>- M - Mute;</p>
+				<p>- ESC - Pausa/Menu;</p></br>
+				
+
+			</center>
+		</div>
+		<div id="champs">
+			<center>
+				<img src="assets/logo.png" id="logo"/>
+				<img src="assets/select_nivel.png" id="select1"/><br/>
+				
+				<button  type="button" class="btn_nivel" id="nBasico"><img src="assets/nBasico.png" id="nivel"/></button><br/>
+				<button  type="button" class="btn_nivel" id="nNormal" autofocus><img src="assets/nNormal.png" id="nivel"/></button><br/>
+				
+				<img src="assets/enter.png" id="enter"/>
+			</center>
+		</div>
+		<div id="player2">
+			<center>
+				<img src="assets/creditos.png" id="big_logo"/><br/><br/>
+				<h4>Jogo criado por:</h4>
+				<p><div class="name"><i>Afonso Carvalho</i>
+					<span class="extra">Nº 160118010</span>
+				</div></p>
+				<p><div class="name"><i>André Pinto</i>
+					<span class="extra">Nº 160118030</span>
+				</div></p>
+				<p><div class="name"><i>Simão Godinho</i>
+					<span class="extra">Nº 160118012</span>
+				</div></p></br>
+				<h4>Unidade curricular:</h4>
+				<p><div class="name"><i>Aplicações Multimédia</i>
+					<span class="extra">UC de 2º Ano, 2º Semestre</span>
+				</div></p></br>
+				<h4>Professor:</h4>
+				<p><div class="name"><i>Cláudio Barradas</i>
+					<span class="extra">claudio.barradas@ esg.ipsantarem.pt</span>
+				</div></p></br>
+				<h4>Escola:</h4>
+				<p><div class="name"><i>ESGT - IPSantarém</i>
+					<span class="extra">Escola Superior de Gestão e Tecnologias</span>
+				</div></p></br>
+				<p><button type="button" style="visibility: hidden;" id="passar">GO</button></p>
+			</center>
+		</div>
+	</div>
+	<canvas width="1000" height="600"></canvas>
+</body>
+</html>

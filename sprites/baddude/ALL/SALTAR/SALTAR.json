@@ -1,0 +1,174 @@
+{"frames": {
+
+"MURRON_01.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_02.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_03.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_04.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_05.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_06.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_07.png":
+{
+	"frame": {"x":71,"y":1,"w":86,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":101},
+	"sourceSize": {"w":86,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_08.png":
+{
+	"frame": {"x":71,"y":1,"w":86,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":101},
+	"sourceSize": {"w":86,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_09.png":
+{
+	"frame": {"x":71,"y":1,"w":86,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":101},
+	"sourceSize": {"w":86,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_10.png":
+{
+	"frame": {"x":71,"y":1,"w":86,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":101},
+	"sourceSize": {"w":86,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_11.png":
+{
+	"frame": {"x":71,"y":1,"w":86,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":101},
+	"sourceSize": {"w":86,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_12.png":
+{
+	"frame": {"x":71,"y":1,"w":86,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":101},
+	"sourceSize": {"w":86,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_13.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_14.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_15.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_16.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_17.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"MURRON_18.png":
+{
+	"frame": {"x":1,"y":1,"w":68,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":103},
+	"sourceSize": {"w":68,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "SALTAR.png",
+	"format": "RGBA8888",
+	"size": {"w":158,"h":105},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e5f13b4afd3ba8908c8f25c0db616ff3:1d868019a74df7559ca58a13d1d38266:8e5086b64f26a53937c116f333af704f$"
+}
+}

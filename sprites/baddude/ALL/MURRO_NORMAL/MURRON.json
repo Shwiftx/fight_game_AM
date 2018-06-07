@@ -1,0 +1,147 @@
+{"frames": {
+
+"SALTAR_01.png":
+{
+	"frame": {"x":1,"y":207,"w":41,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":140},
+	"sourceSize": {"w":41,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_02.png":
+{
+	"frame": {"x":1,"y":207,"w":41,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":140},
+	"sourceSize": {"w":41,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_03.png":
+{
+	"frame": {"x":1,"y":207,"w":41,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":140},
+	"sourceSize": {"w":41,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_04.png":
+{
+	"frame": {"x":1,"y":207,"w":41,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":140},
+	"sourceSize": {"w":41,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_05.png":
+{
+	"frame": {"x":1,"y":207,"w":41,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":140},
+	"sourceSize": {"w":41,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_06.png":
+{
+	"frame": {"x":1,"y":90,"w":42,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":115},
+	"sourceSize": {"w":42,"h":115},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_07.png":
+{
+	"frame": {"x":1,"y":90,"w":42,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":115},
+	"sourceSize": {"w":42,"h":115},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_08.png":
+{
+	"frame": {"x":1,"y":90,"w":42,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":115},
+	"sourceSize": {"w":42,"h":115},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_09.png":
+{
+	"frame": {"x":1,"y":90,"w":42,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":115},
+	"sourceSize": {"w":42,"h":115},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_10.png":
+{
+	"frame": {"x":1,"y":90,"w":42,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":115},
+	"sourceSize": {"w":42,"h":115},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_11.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":87},
+	"sourceSize": {"w":51,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_12.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":87},
+	"sourceSize": {"w":51,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_13.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":87},
+	"sourceSize": {"w":51,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_14.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":87},
+	"sourceSize": {"w":51,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_15.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":87},
+	"sourceSize": {"w":51,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "MURRON.png",
+	"format": "RGBA8888",
+	"size": {"w":53,"h":348},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0181e7a6a2b6c2830ceced1108f20158:734e4a9ed5d520a1e05e797e61a9db02:df2df8a17f5d126903063f59a3c55028$"
+}
+}
