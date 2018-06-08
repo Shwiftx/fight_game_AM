@@ -2,7 +2,7 @@
 
 "SALTAR_01.png":
 {
-	"frame": {"x":1,"y":88,"w":43,"h":135},
+	"frame": {"x":1,"y":309,"w":43,"h":135},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":135},
@@ -11,7 +11,7 @@
 },
 "SALTAR_02.png":
 {
-	"frame": {"x":1,"y":88,"w":43,"h":135},
+	"frame": {"x":1,"y":309,"w":43,"h":135},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":135},
@@ -20,7 +20,7 @@
 },
 "SALTAR_03.png":
 {
-	"frame": {"x":1,"y":88,"w":43,"h":135},
+	"frame": {"x":1,"y":309,"w":43,"h":135},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":135},
@@ -29,7 +29,7 @@
 },
 "SALTAR_04.png":
 {
-	"frame": {"x":1,"y":88,"w":43,"h":135},
+	"frame": {"x":1,"y":309,"w":43,"h":135},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":135},
@@ -38,7 +38,7 @@
 },
 "SALTAR_05.png":
 {
-	"frame": {"x":1,"y":88,"w":43,"h":135},
+	"frame": {"x":1,"y":309,"w":43,"h":135},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":135},
@@ -47,7 +47,7 @@
 },
 "SALTAR_06.png":
 {
-	"frame": {"x":1,"y":88,"w":43,"h":135},
+	"frame": {"x":1,"y":309,"w":43,"h":135},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":135},
@@ -56,7 +56,7 @@
 },
 "SALTAR_07.png":
 {
-	"frame": {"x":1,"y":88,"w":43,"h":135},
+	"frame": {"x":1,"y":309,"w":43,"h":135},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":135},
@@ -65,7 +65,7 @@
 },
 "SALTAR_08.png":
 {
-	"frame": {"x":1,"y":1,"w":49,"h":85},
+	"frame": {"x":1,"y":108,"w":49,"h":85},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":85},
@@ -74,7 +74,7 @@
 },
 "SALTAR_09.png":
 {
-	"frame": {"x":1,"y":1,"w":49,"h":85},
+	"frame": {"x":1,"y":108,"w":49,"h":85},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":85},
@@ -83,7 +83,7 @@
 },
 "SALTAR_10.png":
 {
-	"frame": {"x":1,"y":1,"w":49,"h":85},
+	"frame": {"x":1,"y":108,"w":49,"h":85},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":85},
@@ -92,7 +92,7 @@
 },
 "SALTAR_11.png":
 {
-	"frame": {"x":1,"y":1,"w":49,"h":85},
+	"frame": {"x":1,"y":108,"w":49,"h":85},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":85},
@@ -101,7 +101,7 @@
 },
 "SALTAR_12.png":
 {
-	"frame": {"x":1,"y":1,"w":49,"h":85},
+	"frame": {"x":1,"y":108,"w":49,"h":85},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":85},
@@ -110,7 +110,7 @@
 },
 "SALTAR_13.png":
 {
-	"frame": {"x":1,"y":1,"w":49,"h":85},
+	"frame": {"x":1,"y":108,"w":49,"h":85},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":85},
@@ -119,11 +119,137 @@
 },
 "SALTAR_14.png":
 {
-	"frame": {"x":1,"y":1,"w":49,"h":85},
+	"frame": {"x":1,"y":108,"w":49,"h":85},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":85},
 	"sourceSize": {"w":49,"h":85},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_15.png":
+{
+	"frame": {"x":1,"y":195,"w":44,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":112},
+	"sourceSize": {"w":44,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_16.png":
+{
+	"frame": {"x":1,"y":195,"w":44,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":112},
+	"sourceSize": {"w":44,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_17.png":
+{
+	"frame": {"x":1,"y":195,"w":44,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":112},
+	"sourceSize": {"w":44,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_18.png":
+{
+	"frame": {"x":1,"y":195,"w":44,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":112},
+	"sourceSize": {"w":44,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_19.png":
+{
+	"frame": {"x":1,"y":195,"w":44,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":112},
+	"sourceSize": {"w":44,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_20.png":
+{
+	"frame": {"x":1,"y":195,"w":44,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":112},
+	"sourceSize": {"w":44,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_21.png":
+{
+	"frame": {"x":1,"y":195,"w":44,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":112},
+	"sourceSize": {"w":44,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_22.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":105},
+	"sourceSize": {"w":51,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_23.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":105},
+	"sourceSize": {"w":51,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_24.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":105},
+	"sourceSize": {"w":51,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_25.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":105},
+	"sourceSize": {"w":51,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_26.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":105},
+	"sourceSize": {"w":51,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_27.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":105},
+	"sourceSize": {"w":51,"h":105},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SALTAR_28.png":
+{
+	"frame": {"x":1,"y":1,"w":51,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":105},
+	"sourceSize": {"w":51,"h":105},
 	"pivot": {"x":0.5,"y":0.5}
 }},
 "meta": {
@@ -131,8 +257,8 @@
 	"version": "1.0",
 	"image": "SALTAR.png",
 	"format": "RGBA8888",
-	"size": {"w":51,"h":224},
+	"size": {"w":53,"h":445},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:76a8daa4405b271ec0974782def1309f:e34683b44692884851b6ef9a7a83d7b6:8e5086b64f26a53937c116f333af704f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:685546c42c14dac53eedffb9ac0ced6d:1b898e029d909c76ad7047fdc4eeb719:8e5086b64f26a53937c116f333af704f$"
 }
 }
